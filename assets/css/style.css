@@ -27,7 +27,6 @@ header p {
     margin-top: 0;
 }
 
-
 .card__wrapper {
     display: flex;
     justify-content: center;
@@ -80,4 +79,17 @@ header p {
 
 .karma {
     border-top: 5px solid hsl(34, 97%, 64%);
+}
+
+@media (max-width: 1440px) {
+    .card__wrapper {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    header {
+        width: 100%;
+    }
 }
