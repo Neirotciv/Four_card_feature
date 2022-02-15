@@ -1,6 +1,6 @@
 # Single price grid component solution
 
-Premier exercice du site frontend mentor
+Deuxième exercice du site frontend mentor
 [Challenge 2](https://dev.to/frontendmentor/16-front-end-projects-with-designs-to-help-improve-your-coding-skills-5ajl)
 
 ## Réalisation
